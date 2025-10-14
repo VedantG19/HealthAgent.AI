@@ -1,0 +1,5 @@
+
+backend/healthagent/
+frontend/node_modules/
+
+.env
